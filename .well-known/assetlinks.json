@@ -8,5 +8,15 @@
         "AD:64:CB:BD:A8:9E:6C:B0:E9:EC:84:D2:18:11:16:C1:8C:03:32:B4:80:12:CE:71:BA:7F:EB:3C:08:84:40:A3"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nplho98.secretarytool",
+      "sha256_cert_fingerprints": [
+        "AD:64:CB:BD:A8:9E:6C:B0:E9:EC:84:D2:18:11:16:C1:8C:03:32:B4:80:12:CE:71:BA:7F:EB:3C:08:84:40:A3"
+      ]
+    }
   }
 ]
